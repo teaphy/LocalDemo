@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalDemo</string>
+    <string name="current_language">ユーザーの現在の言語：%s</string>
+    <string name="test_page">テストインターフェース</string>
+    <string name="multi_language">多言語</string>
+    <string name="open_setting_page">設定ページを開く</string>
+    <string name="test_content">5月18日0:00から、地区内のすべてのデパートおよび商業施設（スーパーマーケットを除く）、家電店、ホームショッピングモール、専門市場およびその他の企業（ユニット）は、営業を停止します。</string>
+    <string name="tip_select_language">言語を選択してください</string>
+    <string name="local_china">簡体字中国語</string>
+    <string name="local_english">英語</string>
+    <string name="local_japan">日本語</string>
+    <string name="popu_window">PopuWindow</string>
+    <string name="popu_content">これはPopuWindowのテストですか？</string>
+</resources>

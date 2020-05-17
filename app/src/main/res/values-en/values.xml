@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LocalDemo</string>
+    <string name="current_language">The use\'s current language: %s</string>
+    <string name="test_page">Test interface</string>
+    <string name="multi_language">Multi-language</string>
+    <string name="open_setting_page">Open the settings page</string>
+    <string name="test_content">From 0:00 on May 18, all department stores and commercial complexes in the district (excluding supermarkets), home appliance stores, home shopping malls, professional markets and other enterprises (units) will be suspended from business.</string>
+    <string name="tip_select_language">Please select language</string>
+    <string name="local_china">Simplified Chinese</string>
+    <string name="local_english">English</string>
+    <string name="local_japan">Japanese</string>
+    <string name="popu_window">PopuWindow</string>
+    <string name="popu_content">Is this a test of PopuWindow?</string>
+</resources>
